@@ -4,6 +4,7 @@
   1. What is this all about
   2. What do I need?
   3. How do I run it?
+  4. How do I stop it?
 
 ## What is this all about?
 
@@ -31,3 +32,7 @@ the console. Make sure you are on your correct directory and run:
         ```python3.6 py_flash.py path_to_your_json```
 A working example is:
         ```python3.6 py_flash.py example_dict.json```
+
+## How do I stop it?
+
+To stop it just press CTRL-D.

@@ -32,3 +32,7 @@ the console. Make sure you are on your correct directory and run:
 
 A working example is:  
 ```python3.6 py_flash.py example_dict.json```  
+
+## How do I stop it?
+
+To stop it just press CTRL-D.

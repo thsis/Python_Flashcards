@@ -4,6 +4,9 @@ import random
 
 script_name, dictionary_path = argv
 
+print("""Welcome to Python Flashcards. To see the next Flashcard hit RETURN.
+To end the script hit CTRL-D.""")
+
 with open(dictionary_path) as qa_dict:
         d = json.load(qa_dict)
         q = list(d.keys())
