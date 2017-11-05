@@ -4,6 +4,7 @@
   1. What is this all about
   2. What do I need?
   3. How do I run it?
+  4. How do I stop it?s
 
 ## What is this all about?
 
@@ -35,4 +36,4 @@ A working example is:
 
 ## How do I stop it?
 
-To stop it just press CTRL-D.
+To stop it just press ```CTRL-D```.
