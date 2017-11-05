@@ -4,7 +4,7 @@
   1. What is this all about
   2. What do I need?
   3. How do I run it?
-  4. How do I stop it?s
+  4. How do I stop it?
 
 ## What is this all about?
 
